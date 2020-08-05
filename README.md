@@ -1,4 +1,11 @@
 ### Line'R
+Im middle Java android developer, I develop applications for all types of android devices (smartphones, smartwatches, tablets, android cars, etc.)
+
+I also have extensive experience in developing and compiling systems based on android, kernels, modems.
+
+I have little experience in application design
+
+For cooperation, you can contact me using the links below
 
 <br />
 
