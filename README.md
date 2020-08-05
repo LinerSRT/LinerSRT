@@ -13,7 +13,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LinerSRT&show_icons=true&hide_border=true" />
+![LineR github stats](https://github-readme-stats.vercel.app/api?username=LinerSRT&count_private=true)
 
 [gmail]: https://codeSTACKr.com
 [4pda]: https://twitter.com/codeSTACKr
