@@ -13,9 +13,30 @@
 
 ---
 
-![LineR github stats](https://github-readme-stats.vercel.app/api?username=LinerSRT&count_private=true)
+![LineR github stats](https://github-readme-stats.vercel.app/api?username=LinerSRT&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinerSRT&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-[gmail]: https://codeSTACKr.com
-[4pda]: https://twitter.com/codeSTACKr
-[vk]: https://youtube.com/codeSTACKr
-[xda]: https://instagram.com/codeSTACKr
+<br />
+
+---
+### Pins:
+<a href="https://github.com/LinerSRT/SwitchIcon">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LinerSRT&repo=SwitchIcon" />
+</a>
+<a href="https://github.com/LinerSRT/Live-Wallpaper-Manager">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LinerSRT&repo=Live-Wallpaper-Manager" />
+</a>
+<a href="https://github.com/LinerSRT/FacerEngine-Render">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LinerSRT&repo=FacerEngine-Render" />
+</a>
+<a href="https://github.com/LinerSRT/ClockEngine">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LinerSRT&repo=ClockEngine" />
+</a>
+<a href="https://github.com/LinerSRT/clockskin_collection">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LinerSRT&repo=clockskin_collection" />
+</a>
+
+[gmail]: serinity320@gmail.com
+[4pda]: https://4pda.ru/forum/index.php?showuser=4548849
+[vk]: https://vk.com/liner_it
+[xda]: https://forum.xda-developers.com/member.php?u=7046679
