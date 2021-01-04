@@ -26,9 +26,6 @@ For cooperation, you can contact me using the links below
 
 ---
 ### Pins:
-<a href="https://github.com/LinerSRT/L-Launcher-Oprimized">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LinerSRT&repo=L-Launcher-Oprimized" />
-</a>
 <a href="https://github.com/LinerSRT/PreferenceManager">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LinerSRT&repo=PreferenceManager" />
 </a>
