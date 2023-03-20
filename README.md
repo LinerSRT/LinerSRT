@@ -19,10 +19,6 @@ For cooperation, you can contact me using the links below
 
 <br>
 
-### Stats:
-![LineR github stats](https://github-readme-stats.vercel.app/api?username=LinerSRT&count_private=true&show_icons=true)
-
-
 [gmail]: serinity320@gmail.com
 [4pda]: https://4pda.ru/forum/index.php?showuser=4548849
 [vk]: https://vk.com/liner_it
